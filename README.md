@@ -1,0 +1,1 @@
+# perl-nagios-skeleton
